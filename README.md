@@ -34,8 +34,8 @@ Initiating training with heavy regularization can sometimes slow down or hinder 
 
 Your insights can tremendously enhance this layer's efficiency and versatility. If you wish to contribute:
 
-    1.Fork this repository.
-    2.Clone the forked repo to your local environment.
-    3.Make and test your changes.
-    4.Commit and push your updates.
-    5.Open a pull request and provide a clear summary of your changes.
+    1. Fork this repository.
+    2. Clone the forked repo to your local environment.
+    3. Make and test your changes.
+    4. Commit and push your updates.
+    5. Open a pull request and provide a clear summary of your changes.
