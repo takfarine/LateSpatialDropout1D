@@ -25,9 +25,10 @@ late_dropout = LateSpatialDropout1D(rate=0.5, start_step=100)
 ## 🤔 Why LateSpatialDropout1D?
 
 Initiating training with heavy regularization can sometimes slow down or hinder the convergence, especially when the model is trying to learn basic patterns in the data. By delaying the onset of dropout:
-- **Gradual Regularization:** The network gets a phase where it can learn without heavy constraints, making it adapt organically to the data.
-- **Training Stability:** Prevents potential instabilities or slow convergence that might arise from early, aggressive regularization.
-- **Improved Performance:** In certain cases, delaying dropout can lead to better validation accuracy as the model gets a chance to learn foundational patterns without interruption.
+
+-**Gradual Regularization:** The network gets a phase where it can learn without heavy constraints, making it adapt organically to the data.
+-**Training Stability:** Prevents potential instabilities or slow convergence that might arise from early, aggressive regularization.
+-**Improved Performance:** In certain cases, delaying dropout can lead to better validation accuracy as the model gets a chance to learn foundational patterns without interruption.
 
 ## 🌐 Contributing
 
