@@ -40,7 +40,7 @@ late_dropout = LateSpatialDropout1D(rate=0.5, start_step=100)
 2. **🛠 Set Up Locally**
     - Clone your forked repository to your machine.
     ```bash
-    git clone https://github.com/<Your-Username>/<Repo-Name>.git
+    git clone https://github.com/<takfarine>/<LateSpatialDropout1D>.git
     ```
 3. **🖌 Make Your Changes**
     - Implement and test the modifications you want.
